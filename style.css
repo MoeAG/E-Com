@@ -1,0 +1,128 @@
+body
+{
+    font-family: 'Inter', sans-serif;
+    background-color: #E8D5C4;
+}
+.text
+{
+    color: white;
+} 
+.sections
+{
+    font-family: 'Arvo', serif;
+    text-align: center;
+    padding: 3% 0%;
+    color:#3A98B9 ;
+}
+.carousel
+{
+    height: 100%;
+    width: 100%;
+
+}
+.carimg
+{
+    height: 100%;
+    width: 100%;
+}
+.navbrand
+{
+    color: white    ;
+}
+.link,.card-link
+{
+    margin: 10px;
+    text-decoration: none;
+    color:#6b705c ;
+}
+.card-link:hover
+{
+    text-decoration: underline;
+    color: #B8B8B8;
+}
+.link:hover
+{
+    text-decoration: underline;
+    color:black;
+}
+.mfright
+{
+    margin-left: 82%;
+}
+.logoimg
+{
+    padding: 10px;
+}
+.gal
+{
+    background-color:#E8D5C4 ;
+}
+.fa-brands:hover
+{
+    color: #B7B7A4;
+}
+/*sections*/
+#Top-Bar
+{
+    background-color: #ddbea9;
+    padding-top: 20px;
+}
+#nav-bar
+{
+    background-color: #3A98B9;
+    text-align: center;
+}
+
+
+#announce-bar
+{
+    background-color:  #ffe8d6 ;
+    text-align: center;
+}
+
+#header
+{
+    font-family: 'Arvo', serif;
+    background-color: #E8D5C4;
+    color: #6b705c;
+    text-align:center;
+    padding-bottom: 10%;
+}
+
+#footer
+{
+    color:#6b705c;
+    text-align: center;
+    font-family: 'Arvo', serif;
+    padding: 2% 5%;
+    background-color:#FFF1DC ;
+}
+
+#features
+{
+   background-color:#E8D5C4;
+   text-align: center;
+   font-size: large;
+}
+
+
+.F
+{
+    background-color:#E8D5C4;
+}
+.dots
+{
+    border-style: none;
+    border-top-style:dotted ;
+    border-color:#3A98B9;
+    border-width: 15px;
+    width: 10%;
+    height: 0px;
+    margin-left: 45%;
+}
+.inputgroup
+{
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
